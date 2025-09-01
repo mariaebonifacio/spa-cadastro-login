@@ -1,0 +1,6 @@
+.app-menu{
+    display: flex;
+    justify-content: center;
+    gap: 1rem; /* Espaçamento entre os botões */
+    margin-bottom: 2rem;
+}
