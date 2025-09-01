@@ -1,5 +1,5 @@
 import Button from '../Button/Button';
-import '/Menu.css';
+import './Menu.css';
 
 // Recebe a função 'onMenuClick' via props para...
 function Menu({ onMenuClick}) {
